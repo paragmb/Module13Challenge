@@ -11,9 +11,9 @@ This project leverages jupyterlab version 3.2.1.
 
 Ensure the conda dev environment is activated. Using CLI, please launch the jupyter lab.
 
-Original Model: Open the venture_funding_with_deep_learning.ipynb. Restart the kernel.
-Optimization Attempt 1 (Model 1): Open the M1_venture_funding_with_deep_learning.ipynb. Restart the kernel. 
-Optimization Attempt 2 (Model 2): Open the M2_venture_funding_with_deep_learning.ipynb. Restart the kernel. 
+Original Model: Open the venture_funding_with_deep_learning.ipynb. Restart the kernel.  
+Optimization Attempt 1 (Model 1): Open the M1_venture_funding_with_deep_learning.ipynb. Restart the kernel.  
+Optimization Attempt 2 (Model 2): Open the M2_venture_funding_with_deep_learning.ipynb. Restart the kernel.
 
 Please refer to jupyter notebooks for answers to the questions in the assignment.
 
